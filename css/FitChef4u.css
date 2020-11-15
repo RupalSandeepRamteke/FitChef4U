@@ -1,0 +1,186 @@
+/*titleSection*/
+#HEAD {
+  background-color: orange;
+}
+
+.container-fluid {
+  padding: 3% 8%;
+}
+/*navbar*/
+.navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 350%;
+  color: #ffff;
+  font-stretch: expanded;
+}
+
+.nav-item {
+  padding: 1% auto;
+  font-size: 147%;
+}
+/*header*/
+.section1 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.head1 {
+  padding: 7% 2%;
+  text-align: left;
+  font-size: 350%;
+}
+
+.btn1 {
+  margin-right: 2%;
+}
+
+.btndownlod {
+  margin-right: 43%;
+}
+/*Features*/
+#features {
+  padding: 1% 1%;
+}
+
+.iconfas {
+  margin-right: 20%;
+  padding: 6%;
+  color: #ffcc80;
+}
+
+.fas:hover {
+  color: orange;
+}
+
+.header1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 190%;
+  text-align: center;
+  width: 75%;
+}
+
+.paragraph {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size: 110%;
+  width: 85%;
+  color: #566573;
+}
+/*testimonialsStyling*/
+#testimonials {
+  background-color: orange;
+  text-align: center;
+}
+
+.headtag {
+  font-size: 315%;
+  width: 85%;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 6%;
+  margin-left: 7%;
+  padding-bottom: 3%;
+}
+
+.customer {
+  margin-top: 2%;
+  margin-left: 11%;
+  width: 9%;
+  border-radius: 100%;
+}
+
+.titles {
+  margin-left: 4%;
+  font-family: 'Montserrat', sans-serif;
+  font-style: italic;
+}
+/*SponcersStyling*/
+#sponcers {
+  background-color: orange;
+  padding: 5% 3%;
+}
+/*Plans*/
+.logos {
+  width: 15%;
+  margin-left: 8%;
+}
+
+.head2 {
+  font-size: 345%;
+  margin-top: 7%;
+  text-align: center;
+}
+
+.paragraph1 {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  margin-top: 2%;
+  margin-bottom: 3%;
+  font-size: 120%;
+  color: #566573;
+}
+
+.row {
+  text-align: center;
+}
+
+.plans1 {
+  padding: 3%;
+}
+
+.card-header {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.card-footer {
+  background-color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  color: #566573;
+}
+
+#Download {
+  margin-top: 3%;
+  background: orange;
+  text-align: center;
+}
+
+.head3 {
+  margin-left: 7%;
+  padding-top: 8%;
+  width: 85%;
+  font-size: 340%;
+  font-weight: bold;
+  font-family: 'Ubuntu';
+}
+
+.buttons {
+  padding: 8% 10%;
+}
+
+.btnmargin {
+  margin-left: 2%;
+}
+/*footerstyling*/
+#footer {
+  padding: 5% 40%;
+  font-size: 100%;
+}
+
+.social-icon {
+  width: 3%;
+  color: black;
+  padding-left: 23%;
+}
+
+.social-icon:hover {
+  color: #3a86ff;
+}
+
+.footerp {
+  margin-left: 4%;
+  margin-top: 9%;
+  color: #8f8f8f;
+  font-size: 140%;
+  width: 130%;
+}
